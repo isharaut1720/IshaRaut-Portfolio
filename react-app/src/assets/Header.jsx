@@ -3,7 +3,7 @@ function Header() {
 
     return(
         <header className = "header">
-            <h1>Isha Raut</h1>
+            <h1>Isha's Portfolio</h1>
             <p>Aspiring Software Engineer | Java | Python | Web Development</p>
         </header>
     )
